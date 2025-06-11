@@ -1,0 +1,17 @@
+Dicionário dos dados:
+•	ID Cliente: Código interno para organização.
+•	Nome do Cliente: Nome da pessoa ou empresa.
+•	Data da Instalação: Quando foi feita a instalação.
+•	Tipo de Instalação: Residencial, Comercial, Industrial, Rural, etc.
+•	Endereço, Bairro, Cidade, Estado, CEP: Para geolocalizar e analisar por região.
+•	Valor do Serviço: Valor total pago pelo cliente.
+•	Tipo de Pagamento: À vista, Cartão, Boleto, Financiamento, Pix, etc.
+•	Nº de Parcelas: Se for parcelado.
+•	Instituição Financeira: Se foi feito via financiamento.
+•	Origem do Cliente: Como conheceu a empresa (ex.: Google, Instagram, Indicação, Feira, etc.).
+•	Avaliação (1-5): Nota dada pelo cliente.
+•	Comentário do Cliente: Feedback textual.
+•	Sistema (kWp): Potência total do sistema instalado.
+•	Nº de Placas: Quantidade de painéis instalados.
+•	Indicação de Quem?: Nome da pessoa que indicou, se for o caso.
+•	Vendedor Responsável: Nome do colaborador que fechou a venda
